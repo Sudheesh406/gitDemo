@@ -6,5 +6,6 @@ const demoFunction = async ()=>{
     } catch (error) {
 
         console.log('error found in ssdemoFunction', error)
+        console.log('just for testing')
     }
 }
